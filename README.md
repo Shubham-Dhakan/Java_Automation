@@ -6,3 +6,4 @@
 5) DatePicker: Automation Script of how to locate date picker WEB-ELEMENT ON website and automate the process of selecting the date
 6) DynamicTable: Automation script script similar to webtable but gives the value of dynamic table everytime 
 7) Alert Pop-ups : Alert pop-up | Prompt Alert | Confirm Alert 
+8) Action Class: Mouse Hover | Double Click | Context Click | drag and drop 

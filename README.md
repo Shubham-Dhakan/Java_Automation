@@ -8,3 +8,4 @@
 7) Alert Pop-ups : Alert pop-up | Prompt Alert | Confirm Alert 
 8) Action Class: Mouse Hover | Double Click | Context Click | drag and drop 
 9) Implicit and Explicit Wait: Difference b/w implicit and explicit wait
+10) Handling Multiple Windows: Using Iterator Class Method with instance to access class method to swtich browsers 
